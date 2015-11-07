@@ -1,0 +1,56 @@
+/* Custom styles -- style.css */
+
+body {
+    background: url("../images/brick.jpg");
+    
+}
+
+.header{
+    border-bottom: 3px #ccc solid;
+    
+}
+
+.header h2{
+   color:white;    
+    
+}
+
+
+.boxes{
+    text-align: center;   
+    background: #9c6611;
+    opacity: 0.9;
+    padding-top: 25px;
+    margin-bottom: 25px;
+}
+.boxes h2{
+    font-family: Arial, sans-serif;
+    color:white;
+    text-shadow: 5px 5px 8px brown;
+    
+}
+.boxes i{
+    text-align: center;
+    display: block;
+    text-align: center;
+    display: block;
+    
+}
+
+.footer{
+    background: brown;
+    opacity: 0.8;
+    color: #fff;
+    text-align: center;
+    height: 28%;
+    padding-top: 5px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.footer h4{
+    color:#000;
+}
+.gallery{
+    width:800px;
+    opacity: 0.9;
+    color: #fff;
+}
